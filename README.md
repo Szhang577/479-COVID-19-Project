@@ -4,7 +4,11 @@ This is project for STAT 479 in UW-Madison
 Both covid-19-cases-deaths-and-hospitalization.csv and covid-19-vaccination-cases-and-hospitalization.csv are the curated data sets we want to use in Milestone 3.
 
 Note: All the public data come from CDC website and the Atlantic's COVID Tracking Project.
+
 Note: The public csv file only contains several row of the curated data. We basically selected them randomly.
+
+Note: As you may notice that both files contains very similar columns, because we want one file contains a broader range of time (March 2020 to March 2021) while keep another one narrowed down to (January 2021 to March 2021)
+
 ## covid-19-cases-deaths-and-hospitalization.csv
     Columns: Date, state_abb, hospitalized, hospitalizedCumulative, hospitalizedCurrently, hospitalizedIncrease, tot_cases, new_cases, tot_deaths, new_deaths, total_cases, total_deaths
     
