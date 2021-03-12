@@ -1,4 +1,3 @@
-Table 1
 Date,state_abb,hospitalized,hospitalizedCumulative,hospitalizedCurrently,hospitalizedIncrease,tot_cases,new_cases,tot_deaths,new_deaths,people_vaccinated,state_total_pop,vaccination_ratio,daily_vaccine
 2021-02-25,WI,25954,25954,355,61,615225,1090,6994,64,889210,5852490,0.151937038764697,11168
 2021-02-25,WY,1377,1377,20,3,54202,304,671,0,94291,581075,0.162269930731833,2075
